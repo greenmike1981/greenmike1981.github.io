@@ -18,7 +18,7 @@ header {
     text-align: center;
     display: inline-block;
     margin-top: 5%
-    position:absolute;
+    position:fixed;
         width:100%;
         bottom:0;
 }
